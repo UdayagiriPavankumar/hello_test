@@ -1,3 +1,1 @@
-how?
-how are you?
-enjoy the day!
+print("Hello GIT")
